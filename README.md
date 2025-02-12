@@ -10,7 +10,7 @@ The graduate writes complex SQL statements in order to implement functions, stor
 
 The graduate configures data extraction, transformation, and loading tasks in order to automate data integration.
 
-INTRODUCTION Data analysts frequently perform periodic extraction of data from a larger database. They then use this extracted data for analysis. A single data extract may serve different organizational needs such as populating an executive summary or providing a complete, detailed collection of data. This task will emulate such a process where you will create a repeatable data export, import, and analysis for various stakeholders.
+<b>INTRODUCTION</b></br> Data analysts frequently perform periodic extraction of data from a larger database. They then use this extracted data for analysis. A single data extract may serve different organizational needs such as populating an executive summary or providing a complete, detailed collection of data. This task will emulate such a process where you will create a repeatable data export, import, and analysis for various stakeholders.
 
 In this task, the data will be extracted and analyzed within the same database to reduce the technical challenges of manipulating multiple databases.
 
@@ -18,7 +18,7 @@ This task defines a report as a collection of data that answers a real-world bus
 
 Your business question must rely on the aggregation of data. In this task, the summary data will be automatically created from the detailed data.</br>
 
-REQUIREMENTS </br>
+<b>REQUIREMENTS</b> </br>
 
 Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. The similarity report that is provided when you submit your task can be used as a guide.
 
